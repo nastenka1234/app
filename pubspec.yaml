@@ -34,3 +34,5 @@ flutter:
           weight: 700
         - asset: assets/fonts/Sheed-Black.otf
           weight: 900
+dependency_overrides:
+  package_info_plus: 8.3.0
